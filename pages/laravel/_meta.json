@@ -1,0 +1,16 @@
+{
+  "index": "中文翻译介绍",
+  "1.Prologue": "1. 序言",
+  "2.GettingStarted": "2. 入门",
+  "3.ArchitectureConcepts": "3. 架构概念",
+  "4.TheBasics": "4. 基础知识",
+  "5.DiggingDeeper": "5. 深入探讨",
+  "6.Security": "6. 安全",
+  "7.Database": "7. 数据库",
+  "8.EloquentORM": "8. Eloquent ORM",
+  "9.Testing": "9. 测试",
+  "10.Packages": "10. 软件包",
+  "license": "许可证",
+  "readme": "自述文件",
+  "redirects": "重定向文件"
+}

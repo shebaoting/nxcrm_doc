@@ -1,0 +1,22 @@
+{
+  "1.artisan": "Artisan 控制台",
+  "2.broadcasting": "广播",
+  "3.cache": "缓存",
+  "4.collections": "集合",
+  "5.concurrency": "并发",
+  "6.context": "上下文",
+  "7.contracts": "契约",
+  "8.events": "事件",
+  "9.filesystem": "文件存储",
+  "10.helpers": "助手函数",
+  "11.http-client": "HTTP 客户端",
+  "12.localization": "本地化",
+  "13.mail": "邮件",
+  "14.notifications": "通知",
+  "15.packages": "包开发",
+  "16.processes": "进程",
+  "17.queues": "队列",
+  "18.rate-limiting": "速率限制",
+  "19.strings": "字符串",
+  "20.scheduling": "任务调度"
+}

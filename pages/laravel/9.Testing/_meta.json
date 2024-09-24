@@ -1,0 +1,8 @@
+{
+  "1.testing": "测试：入门指南",
+  "2.http-tests": "HTTP 测试",
+  "3.console-tests": "控制台测试",
+  "4.dusk": "Laravel Dusk",
+  "5.database-testing": "数据库测试",
+  "6.mocking": "模拟"
+}

@@ -1,0 +1,8 @@
+{
+  "1.authentication": "认证",
+  "2.authorization": "授权",
+  "3.verification": "邮件验证",
+  "4.encryption": "加密",
+  "5.hashing": "哈希",
+  "6.passwords": "重置密码"
+}

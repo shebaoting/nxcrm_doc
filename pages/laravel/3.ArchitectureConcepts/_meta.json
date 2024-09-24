@@ -1,0 +1,6 @@
+{
+  "1.lifecycle": "请求生命周期",
+  "2.container": "服务容器",
+  "3.providers": "服务提供者",
+  "4.facades": "外观（Facades）"
+}
