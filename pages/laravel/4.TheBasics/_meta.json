@@ -1,0 +1,16 @@
+{
+  "1.routing": "路由",
+  "2.middleware": "中间件",
+  "3.csrf": "CSRF 保护",
+  "4.controllers": "控制器",
+  "5.requests": "HTTP 请求",
+  "6.responses": "HTTP 响应",
+  "7.views": "视图",
+  "8.blade": "Blade 模板",
+  "9.vite": "资源打包（Vite）",
+  "10.urls": "URL 生成",
+  "11.session": "HTTP 会话",
+  "12.validation": "验证",
+  "13.errors": "错误处理",
+  "14.logging": "日志记录"
+}

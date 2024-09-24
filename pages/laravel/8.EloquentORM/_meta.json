@@ -1,0 +1,9 @@
+{
+  "1.eloquent": "Eloquent：入门",
+  "2.eloquent-relationships": "Eloquent：关系",
+  "3.eloquent-collections": "Eloquent：集合",
+  "4.eloquent-mutators": "Eloquent：修改器与类型转换",
+  "5.eloquent-resources": "Eloquent：API 资源",
+  "6.eloquent-serialization": "Eloquent：序列化",
+  "7.eloquent-factories": "Eloquent：工厂"
+}
