@@ -1,8 +1,8 @@
 export default {
-  logo: <span>乌鸦嘴文档</span>,
-  docsRepositoryBase: 'https://github.com/shebaoting',
+  logo: <span>NX产品文档</span>,
+  docsRepositoryBase: '',
   chat: {
-    link: 'https://wyz.xyz',
+    link: 'https://nxcrm.wyz',
     icon: (
       <svg width="24" height="24" viewBox="0 0 248 204">
         <path
@@ -12,24 +12,11 @@ export default {
       </svg>
     )
   },
-  editLink: {
-    text: '在 GitHub 上编辑此页面',
-    component: ({ filePath }) => {
-      const modifiedFilePath = filePath.startsWith('pages/laravel/')
-        ? filePath.replace('pages/laravel/', '') // 去掉 'pages/laravel/'，不带前导斜杠
-        : filePath;
-      console.log(modifiedFilePath); // 打印调试
-      return (
-        <a href={`https://github.com/shebaoting/laravel-doc/blob/main/${modifiedFilePath}`} target="_blank" rel="noopener noreferrer">
-          在 GitHub 上编辑此页面
-        </a>
-      );
-    }
-  },
+  editLink: false,
 
   feedback: {
     content: '反馈意见',
     labels: 'feedback', // 你可以根据需要修改这个标签
-    useLink: () => 'https://github.com/shebaoting/laravel-doc/issues/new?labels=feedback&title=反馈意见' // 反馈链接
+    useLink: () => '#' // 反馈链接
   }
 }
