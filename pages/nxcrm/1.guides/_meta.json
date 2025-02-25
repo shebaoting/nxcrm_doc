@@ -1,4 +1,5 @@
 {
   "1.server": "服务器要求",
-  "2.installation": "web 端安装"
+  "2.installation": "web 端安装",
+  "3.miniprogram": "微信小程序安装"
 }
